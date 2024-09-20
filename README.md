@@ -1,5 +1,5 @@
-# Mern-expenses-application
-# spenSmart
+# SpernSmart-application
+# 
 will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, Node.js) project..
 ### Project: Expenses Tracker App
 
