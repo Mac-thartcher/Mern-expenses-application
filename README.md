@@ -6,7 +6,7 @@ will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, 
 #### 1. Schema Design
 **Entities and Attributes**:
 - **User**: 
-  - `userId` (Primary Key)
+  - `userId` 
   - `name`
   - `email`
   - `password`
@@ -15,7 +15,7 @@ will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, 
   - `expenseId` 
   - `title`
   - `amount`
-  - `category` (e.g., food, transport, utilities)
+  - `category` (e.g., food, transport, clothes)
   - `date`
   - `userId` 
 : A user can have multiple expenses.
@@ -24,8 +24,7 @@ will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, 
 **Main Pages**:
 - **Login/Register**: Simple forms for user authentication.
 - **Dashboard**: Overview of expenses with filters (e.g., by category, date).
-- **Expense Details**: Detailed view of a single expense with options to create, edit, or delete.
-- **Create/Edit Expense**: Form to add or edit an expense.
+- **Expense Details**:  options to add,create, edit, or delete expense
 
 **Navigation**:
 - Header with links to Dashboard, Profile, and Logout.
@@ -44,7 +43,8 @@ will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, 
 - Sharing features like exporting expense reports.
 
 ### Files Needed in This Project
-To organize the MERN stack expenses tracker app, the following files are needed:
+To organize the MERN stack expenses tracker app, I will be using the following files:
+
 
 ### Backend (Node.js + Express)
 1. **server.js**: Entry point for your backend server.
@@ -68,7 +68,7 @@ To organize the MERN stack expenses tracker app, the following files are needed:
 
 ### Frontend (React)
 1. **src/**:
-   - **index.js**: Entry point for your React app.
+   - **index.js**: Entry point React app.
    - **App.js**: Main application component.
    - **components/**:
      - **Header.js**: Header component with navigation links.
@@ -94,5 +94,4 @@ To organize the MERN stack expenses tracker app, the following files are needed:
 3. **.env**: 
 4. **package.json**: Project metadata and dependencies.
 
-### Extra File
-**README.md**: Project documentation.
+
