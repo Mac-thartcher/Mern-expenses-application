@@ -39,8 +39,7 @@ will be buildig a  Expenses Tracker App using MERN (MongoDB, Express.js, React, 
 - User authentication (Web token).
 - CRUD operations for expenses (create, read, update, delete).
 - Dashboard to view expenses.
-- Notifications for upcoming bills or budget limits.
-- Sharing features like exporting expense reports.
+
 
 ### Files Needed in This Project
 To organize the MERN stack expenses tracker app, I will be using the following files:
