@@ -80,9 +80,7 @@ To organize the MERN stack expenses tracker app, I will be using the following f
      - **Login.js**: Login page.
      - **Register.js**: Registration page.
      - **Profile.js**: User profile page.
-   - **context/**:
-     - **AuthContext.js**: Context for managing authentication state.
-     - **ExpenseContext.js**: Context for managing expense state.
+   
    - **services/**:
      - **api.js**: Functions for making API calls.
    - **styles/**:
