@@ -89,6 +89,6 @@ To organize the MERN stack expenses tracker app, I will be using the following f
 2. **public/**:
    - **index.html**: Main HTML file.
 3. **.env**: 
-4. **package.json**: Project metadata and dependencies.
+4. **package.json**.
 
 
