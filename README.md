@@ -63,7 +63,7 @@ To organize the MERN stack expenses tracker app, I will be using the following f
 7. **utils/**:
    - **errorHandler.js**: Custom error handling logic.
 8. **.env**: Environment variables (e.g., database URI, JWT secret).
-9. **package.json**: Project metadata and dependencies.
+9. **package.json**: 
 
 ### Frontend (React)
 1. **src/**:
@@ -89,6 +89,10 @@ To organize the MERN stack expenses tracker app, I will be using the following f
 2. **public/**:
    - **index.html**: Main HTML file.
 3. **.env**: 
+<<<<<<< HEAD
 
+=======
+4. **package.json**.
+>>>>>>> ff62e210727652e12678b4243b5010b7cb507513
 
 
